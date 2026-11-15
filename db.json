@@ -71,5 +71,42 @@
       "photo_url": "https://pin.it/1twpEwpol",
       "balance": 2001
     }
-  ]
+  ],
+    "swords": [
+      {
+        "id": "1",
+        "name": "Bloodpact's Pledge",
+        "img": "https://i.etsystatic.com/35936397/r/il/764e89/7343128791/il_570xN.7343128791_acnf.jpg",
+        "price": 60,
+        "buyer_id": "19"
+      },
+      {
+        "id": "1",
+        "name": "Whispers of Sirens",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgMnkUF0ROYbnrA0pYb92QfmXhKbodt_P6jJYs82c-w&s",
+        "price": 180,
+        "buyer_id": "53"
+      },
+      {
+        "id": "23",
+        "name": "Freeze Frame",
+        "img": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cd/Weapon_Freeze_Frame.png/revision/latest?cb=20260608180900",
+        "price": 160,
+        "buyer_id": "35"
+      },
+      {
+        "id": "15",
+        "name": "Blazing Justice",
+        "img": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cd/Weapon_Blazing_Justice.png/revision/latest?cb=20250503160236",
+        "price": 30,
+        "buyer_id": "92"
+      },
+      {
+        "id": "7",
+        "name": "Defier's Thorn",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbdADb66fZNtmpyF_lpPWONqoIkI-rRuGnVFFBrdmvQ&s=10",
+        "price": 180,
+        "buyer_id": "5"
+      }
+    ]
 }

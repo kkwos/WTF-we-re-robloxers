@@ -107,6 +107,41 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbdADb66fZNtmpyF_lpPWONqoIkI-rRuGnVFFBrdmvQ&s=10",
         "price": 180,
         "buyer_id": "5"
-      }
+      },
+    {
+      "id": 14,
+      "name": "noir revolver",
+      "img": "https://images.stockcake.com/public/0/a/8/0a829199-770a-4de8-a2bc-7ce9634e8aa5_large/noir-gun-shadow-stockcake.jpg",
+      "price": "200",
+      "buyer_id": "22"
+    },
+     {
+       "id": 16,
+       "name": "tactical aestetic",
+       "img": "https://pin.it/BnmefQNSG",
+       "price": "170",
+       "buyer_id": "20"
+     },
+      {
+        "id": 18,
+        "name": "blade aestetic",
+        "img": "https://pin.it/4ZppJC7tQ",
+        "price": "130",
+        "buyer_id": "18"
+      },
+       {
+         "id": 20,
+         "name": "cyberpunk weapon",
+         "img": "https://pin.it/3e6m7gtLk",
+         "price": "143",
+         "buyer_id": "16"
+       },
+        {
+          "id": 22,
+          "name": "weapon flatlay",
+          "img": "https://pin.it/5mhxbLYOc",
+          "price": "160",
+          "buyer_id": "14"
+        }
     ]
 }
